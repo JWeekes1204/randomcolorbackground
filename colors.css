@@ -1,5 +1,8 @@
-div {
-    width: 300px;
-    padding: 25px;
+.color-box {
+    width: 30px;
     margin: 25px;
+    height: 30px;
+    background-color: red;
+    float: left;
+    
 }
